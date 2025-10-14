@@ -27,9 +27,6 @@ Sıkça kullandığım ve kendimi geliştirdiğim bazı teknolojiler:
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="kali" width="40" height="40"/> 
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="wireshark" width="40" height="40"/> 
-  </a>
 </p>
 
 ---
