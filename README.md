@@ -30,12 +30,6 @@ Sıkça kullandığım ve kendimi geliştirdiğim bazı teknolojiler:
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="wireshark" width="40" height="40"/> 
   </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="burp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="metasploit" width="40" height="40"/> 
-  </a>
 </p>
 
 ---
