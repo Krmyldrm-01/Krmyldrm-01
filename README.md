@@ -33,9 +33,11 @@ Sıkça kullandığım ve kendimi geliştirdiğim bazı teknolojiler:
 
 ### 📫 Benimle Bağlantı Kurun
 
-<a href="https://www.linkedin.com/in/kerem-y%C4%B1ld%C4%B1r%C4%B1m-5a9181200/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://tryhackme.com/p/Elliotalderson01" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Elliotalderson01.png" alt="TryHackMe Badge"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kerem-y%C4%B1ld%C4%B1r%C4%B1m-5a9181200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/Elliotalderson01" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-203647?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+</p>
